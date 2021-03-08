@@ -1,5 +1,5 @@
 .navbar {
-  //   outline: 2px solid red;
+  // border: 2px solid red;
   display: flex;
   align-items: center;
   max-width: 800px;
@@ -8,6 +8,8 @@
 
   h1 {
     color: #5a1bee;
+    font-size: 1.5rem;
+    margin: 1rem;
   }
 
   .links {
