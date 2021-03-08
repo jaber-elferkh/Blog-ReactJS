@@ -2,24 +2,3 @@
   //   outline: 2px solid red;
   //   padding: 10px;
 }
-
-.blog-preview {
-  //   outline: 1px solid blue;
-  border-bottom: 1px solid #fafafa;
-  padding: 1.3rem 0;
-  cursor: pointer;
-
-  h2 {
-    font-weight: 600;
-  }
-
-  p {
-    color: #b8bfd6;
-  }
-
-  &:hover {
-    h2 {
-      color: var(--color-primary);
-    }
-  }
-}
