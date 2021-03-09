@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import useFetch from '../../Hooks/useFetch';
 import BlogList from '../BlogList';
 import './styles.scss';
