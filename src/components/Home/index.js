@@ -5,7 +5,7 @@ import './styles.scss';
 
 function Home() {
   const { data: blogs, loading, error } = useFetch(
-    'http://localhost:4000/blogs'
+    'http://localhost:4000/blogs/'
   );
 
   return (
