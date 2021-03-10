@@ -5,7 +5,7 @@ import './styles.scss';
 function CreateBlog() {
   const [title, setTitle] = useState('');
   const [body, setBody] = useState('');
-  const [author, setAuthor] = useState('ahmed');
+  const [author, setAuthor] = useState('');
   const [loading, setLoading] = useState(false);
   const history = useHistory();
 
